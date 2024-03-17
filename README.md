@@ -1,8 +1,8 @@
-# Natural Language Processing (NLP) Tutorial with Python\
+# Natural Language Processing (NLP) Tutorial with Python
 This repository provides a comprehensive set of tutorials designed to equip you with the skills to tackle various NLP tasks using Python.\
 
-##### What you'll find inside:\
-This contains several architecture with explanation and code written from scratch.\
+##### What you'll find inside:
+This contains several architecture with explanation and code written from scratch.
 
 ##### helpful resources:
 
